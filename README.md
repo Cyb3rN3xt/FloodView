@@ -14,7 +14,7 @@ This Python script is the ultimate traffic bot, designed to skyrocket visits to 
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/FloodView.git
+git clone https://github.com/Cyb3rN3xt/FloodView.git
 ```
 
 2. Navigate to the project directory:
@@ -40,7 +40,3 @@ python FloodView.py
 ## Disclaimer
 
 This script is provided for educational purposes only. It is your responsibility to use it ethically and legally. Excessive traffic generation may violate terms of service and result in legal consequences. Use it at your own risk.
-
-```
-
-Feel free to customize the README according to your preferences and project details! 🚀
